@@ -5,9 +5,7 @@
 Booking Shopify Application
 
 https://github.com/jamalsoueidan/booking-shopify-embed-app
-
 https://github.com/jamalsoueidan/booking-shopify-external-app
-
 https://github.com/jamalsoueidan/booking-shopify-framework
 
 
