@@ -15,7 +15,7 @@ https://github.com/jamalsoueidan/booking-shopify-external-app
 https://github.com/jamalsoueidan/booking-shopify-framework
 
 
-- 💬 Ask me about:
+- 💬 My blog:
 https://medium.com/@jamalsoueidan
 
 - 📫 How to reach me:
