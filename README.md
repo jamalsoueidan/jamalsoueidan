@@ -2,7 +2,7 @@
 
 Frontend consulting is what I do! Angular and React, and this is a profile. 
 
-There are numerous showcase/example Angular and React projects available in my repository. 
+There are numerous showcase/example Angular and React projects available in my [repository](https://github.com/jamalsoueidan?tab=repositories). 
 
 - 🔭 I’m currently working on Booking Shopify Application
 
