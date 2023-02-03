@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Frontend consulting is what I do! Angular and React, and this is a profile. 
+Frontend consulting is what I do! Angular and React, and this is my profile. 
 
 There are numerous showcase/example Angular and React projects available in my [repository](https://github.com/jamalsoueidan?tab=repositories). 
 
