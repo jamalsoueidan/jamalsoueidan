@@ -4,8 +4,9 @@ Frontend consulting is what I do! Angular, React or Vue, and this is my profile.
 
 There are numerous showcase/example available in my [repository](https://github.com/jamalsoueidan?tab=repositories). 
 
-- 🔭 I’m currently developing booking shopify application. *(screenshots updated. 18 feb 2023)*
-
+- 🔭 I’m currently developing booking shopify application. 
+ 
+*Updated 18 feb 2023)*
 <table>
   <tr>
     <td>
