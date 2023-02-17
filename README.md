@@ -4,15 +4,15 @@ Frontend consulting is what I do! Angular, React or Vue, and this is my profile.
 
 There are numerous showcase/example available in my [repository](https://github.com/jamalsoueidan?tab=repositories). 
 
-- 🔭 I’m currently developing booking shopify application in my sparetime.
+- 🔭 I’m currently developing booking shopify application in my sparetime. *(screenshots updated. 18 feb 2023)*
 
 <table>
   <tr>
     <td>
-      <img src="https://github.com/jamalsoueidan/book-appointment-app/blob/main/screens/bookings.png?raw=true" width="300" />
+      <img src="https://github.com/jamalsoueidan/booking-shopify-external-app/blob/main/screens/bookings.png?raw=true" width="300" />
     </td>
     <td>
-       <img src="https://github.com/jamalsoueidan/book-appointment-app/blob/main/screens/staff-view-schedule.png?raw=true" width="300"/>
+       <img src="https://github.com/jamalsoueidan/booking-shopify-external-app/blob/main/screens/create-shift.png?raw=true" width="300"/>
     </td>
   </tr>
 </table>
