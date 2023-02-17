@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Frontend consulting is what I do! Angular and React, and this is my profile. 
+Frontend consulting is what I do! Angular, React or Vue, and this is my profile. 
 
 There are numerous showcase/example Angular and React projects available in my [repository](https://github.com/jamalsoueidan?tab=repositories). 
 
@@ -34,6 +34,7 @@ https://www.linkedin.com/in/jamalsoueidan
 <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
 <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" />
 <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
+<img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
 </p>
 
 ### Back-end dev skills:
