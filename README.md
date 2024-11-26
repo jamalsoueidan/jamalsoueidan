@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Jamal, a Fullstack developer passionate about **building SaaS applications**. From developing backend systems to creating frontend interfaces, I enjoy every step of delivering impactful solutions.
+I'm Jamal, a Fullstack developer passionate about **building SaaS applications**. From developing backend systems to creating frontend interfaces, I enjoy every step of delivering impactful solutions.  I have experience integrating third-party services, developing reactive and offline-first applications, working with both SPA and SSR frameworks like Next.js and Remix, and creating backend endpoints using Convex, Node(Express), or Azure Functions. I'm skilled in relational databases SQL (MySQL or PostgreSQL), NoSQL databases ( MongoDB), writing E2E tests using Cypress or Playwright, and automating CI/CD pipelines with GitHub Actions.
 
 Explore my [repositories](https://github.com/jamalsoueidan?tab=repositories) to see examples of what I’ve been working on.
 
