@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Jamal, a Fullstack developer passionate about building SaaS applications acrossmobile, desktop and web. I enjoy every step of developing digital solutions, from developing backend systems to creating frontend interfaces. I build responsive, user-friendly applications. I understand user requirements and translate them into engaging user interfaces. 
+I'm Jamal, a Fullstack developer passionate about building SaaS applications across mobile, desktop and web. I enjoy every step of developing digital solutions, from developing backend systems to creating frontend interfaces. I build responsive, user-friendly applications. I understand user requirements and translate them into engaging user interfaces. 
 
 I have experience integrating third-party services, developing reactive and offline-first applications, and creating backend endpoints using Convex, Node (Nest, or Azure Functions). I'm skilled in relational databases SQL (MySQL or PostgreSQL), NoSQL databases (MongoDB), writing E2E tests using Cypress or Playwright, and automating CI/CD pipelines with GitHub Actions.
 
